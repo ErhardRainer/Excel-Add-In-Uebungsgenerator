@@ -1,0 +1,1 @@
+copy "C:\Users\rainere.TANZMEIS\AppData\Roaming\Microsoft\AddIns\Excel_Uebungsgenerator.xlam" "d:\_Data\_OneDrive\Erhard Rainer\Computer - Programmierung\Excel-Add-In-Uebungsgenerator\Excel_Uebungsgenerator.xlam"
