@@ -1,0 +1,14 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab id="customTabUebungsgenerator" label="Uebungsgenerator">
+                <group id="customGroupGrundschule" label="Grundschule">
+                    <button id="customButtonSheetGeneratorAdvanced" label="Starte Sheet Generator Advanced" 
+                            onAction="Open_uf_SheetGeneratorAdvanced" 
+                            imageMso="GridSettings" 
+                            size="large"/>
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>
